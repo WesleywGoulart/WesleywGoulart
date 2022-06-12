@@ -1,7 +1,11 @@
 ## Olá! Eu sou o Wesley Willian! 
+ 
+- 🖊 Student of FullStack!
+- ✉ Contact me by email: wesleywilliancg@gmail.com
+
  <div>
   <a href="https://github.com/W3SL3YZz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W3SL3YZz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=W3SL3YZz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W3SL3YZz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
