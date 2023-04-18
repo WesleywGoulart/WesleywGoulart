@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Wesley Willian! 
  
-- 🖊 Student of FullStack!
+- 🖊 FullStack Developer Junior!
 - ✉ Contact me by email: wesleywilliancg@gmail.com
 
  <div>
