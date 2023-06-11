@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Wesley Goulart, a FullStack Developer Junior, 
 
 - 🖊 FullStack Developer Junior at TOTVS!
 - ✉ Contact me by email: wesleywilliancg@gmail.com
-- 🎓Currently pursuing a technical degree in Systems Development.
+- 🎓 Currently pursuing a technical degree in Systems Development.
 
 ## Connect with Me
 
