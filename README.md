@@ -22,7 +22,7 @@ Here are some of the skills I have acquired and technologies I have worked with:
 
 - **Languages:** TypeScript, HTML, CSS
 - **Frontend:** Angular, Vue.js, IONIC, Bootstrap
-- **Backend:** C# .NET, Java
+- **Backend:** C# .NET, Java, PHP
 - **Databases:** MongoDB, MySQL, SQL Server
 - **Version Control:** Git, GitHub
 - **Tools:** Postman, Jasmine
