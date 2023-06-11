@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm Wesley Goulart, a FullStack Developer Junior, 
 
 - 🖊 FullStack Developer Junior at TOTVS!
 - ✉ Contact me by email: wesleywilliancg@gmail.com
+- 🎓Currently pursuing a technical degree in Systems Development.
 
 ## Connect with Me
 
@@ -25,10 +26,6 @@ Here are some of the skills I have acquired and technologies I have worked with:
 - **Databases:** MongoDB, MySQL, SQL Server
 - **Version Control:** Git, GitHub
 - **Tools:** Postman, Jasmine
-
-## Education
-
-- Currently pursuing a technical degree in Systems Development.
 
 ![Wesley Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleywGoulart&show_icons=true&theme=radical)
 
