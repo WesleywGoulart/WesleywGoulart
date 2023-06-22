@@ -20,8 +20,8 @@ Feel free to connect with me on social media or through other channels:
 
 Here are some of the skills I have acquired and technologies I have worked with:
 
-- **Frontend:** Angular, TypeScript, Vue.js, IONIC, Bootstrap, HTML, CSS
-- **Backend:** C# .NET, Java, PHP, Laravel
+- **Frontend:** Angular, TypeScript, Vue.js, IONIC, PO-UI
+- **Backend:** C# .NET, Java, PHP, Laravel, ABAP
 - **Databases:** MongoDB, MySQL, SQL Server
 - **Version Control:** Git, GitHub
 - **Tools:** Postman, Jasmine
