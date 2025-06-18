@@ -26,7 +26,7 @@ Atualmente, sou Desenvolvedor Pleno na TOTVS, contribuindo para o desenvolviment
 - Angular | TypeScript | HTML | CSS | PO-UI | IONIC
 
 ### Banco de Dados
-- SQL Server | Oracle | MongoDB | MySQL
+- SQL Server | Oracle | MySQL
 
 ### Qualidade e Testes
 - xUnit | JMeter | Postman | Jasmine | Karma
