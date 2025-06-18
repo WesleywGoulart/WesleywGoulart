@@ -1,36 +1,68 @@
-# Hello! I'm Wesley Goulart!
+# Olá! Eu sou o Wesley Goulart 👋
 
-Welcome to my GitHub profile! I'm Wesley Goulart, a FullStack Developer Junior, currently working at TOTVS. I'm passionate about coding and always eager to learn and explore new technologies.
+Bem-vindo(a) ao meu perfil no GitHub!
 
-## About Me
+Sou Desenvolvedor de Software com foco em tecnologias backend, especialmente com C# .NET e APIs REST. Tenho forte atuação em qualidade de software, automação de testes, segurança de aplicações e performance. Sempre que necessário, também atuo com tecnologias frontend como Angular.
 
-- 🖊 FullStack Developer Junior at TOTVS!
-- ✉ Contact me by email: wesleywilliancg@gmail.com
-- 🎓 Currently pursuing a technical degree in Systems Development.
+Atualmente, sou Desenvolvedor Pleno na TOTVS, contribuindo para o desenvolvimento do aplicativo **MeuRH**, utilizado por mais de **1,5 milhão de usuários ativos**. Tenho experiência com ambientes de alta demanda, contato direto com clientes críticos e foco constante em **eficiência, qualidade e segurança**.
 
-## Connect with Me
+---
 
-Feel free to connect with me on social media or through other channels:
+## 👨‍💻 Sobre Mim
 
-[<img src="https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white">](mailto:wesleywilliancg@gmail.com)
-[<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/wesleywillian)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5513996581756&text=Ol%C3%A1%20Wesley!)
+- 💼 Desenvolvedor Pleno na TOTVS (App MeuRH)
+- 🎓 Cursando Técnico em Desenvolvimento de Sistemas
+- 📍 Baseado em São Paulo, Brasil
+- 📧 Contato: wesleywilliancg@gmail.com
 
-## Skills
+---
 
-Here are some of the skills I have acquired and technologies I have worked with:
+## 🚀 Stack Técnica
 
-- **Frontend:** Angular, TypeScript, Vue.js, IONIC, PO-UI
-- **Backend:** C# .NET, Java, PHP, Laravel, ABAP
-- **Databases:** MongoDB, MySQL, SQL Server
-- **Version Control:** Git, GitHub
-- **Tools:** Postman, Jasmine
+### Backend
+- C# .NET | APIs REST | Microsserviços | TDD | DDD
 
+### Frontend
+- Angular | TypeScript | HTML | CSS | PO-UI | IONIC
+
+### Banco de Dados
+- SQL Server | Oracle | MongoDB | MySQL
+
+### Qualidade e Testes
+- xUnit | JMeter | Postman | Jasmine | Karma
+
+### Segurança
+- OWASP ZAP | Burp Suite | SqlMap | Horusec | Checkmarx
+
+### DevOps & CI/CD
+- Azure DevOps | Docker | Kubernetes | Git
+
+### Metodologias
+- Scrum | Kanban | OKR
+
+---
+
+## 📈 Estatísticas do GitHub
 
 ![Wesley Willian's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleywGoulart&show_icons=true&theme=radical)
 
-## Get in Touch
+---
 
-I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out to me through LinkedIn, email at wesleywilliancg@gmail.com, or WhatsApp.
+## 🤝 Vamos nos conectar?
 
-Thank you for visiting my GitHub profile. Happy coding!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleywillian)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat&logo=gmail&logoColor=white)](mailto:wesleywilliancg@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513996581756&text=Ol%C3%A1%20Wesley!)
+
+---
+
+## 📌 Interesses
+
+- Boas práticas de arquitetura (DDD, Clean Architecture)
+- Performance e escalabilidade de aplicações web
+- Segurança de aplicações (OWASP, automação de análise)
+- Compartilhamento de conhecimento e mentorias
+
+---
+
+Obrigado por visitar meu perfil! 🚀
