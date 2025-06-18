@@ -11,8 +11,8 @@ Atualmente, sou Desenvolvedor Pleno na TOTVS, contribuindo para o desenvolviment
 ## 👨‍💻 Sobre Mim
 
 - 💼 Desenvolvedor Pleno na TOTVS (App MeuRH)
-- 🎓 Cursando Técnico em Desenvolvimento de Sistemas
-- 📍 Baseado em São Paulo, Brasil
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 📍 São Vicente, São Paulo
 - 📧 Contato: wesleywilliancg@gmail.com
 
 ---
